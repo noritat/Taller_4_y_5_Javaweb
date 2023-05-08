@@ -2,19 +2,19 @@
 # Proyecto 4 tipos de conexión a base de datos MySQL con Java y Encrypt - Decrypt MySQL
 
 Este proyecto consiste en mostrar los 4 tipos de conexiones a base de datos MYSQL desde Java los cuales son:
-#BasicConnection:
+# BasicConnection:
 
 ![1](https://user-images.githubusercontent.com/128448216/236710633-24ce0ac1-78df-4b13-9e46-e28680391204.png)
 
-#BasicConnectionWithResources:
+# BasicConnectionWithResources:
 
 ![2](https://user-images.githubusercontent.com/128448216/236710726-fcc025ca-4e08-461d-8288-dc17716da1a0.png)
 
-#BasicConnectionSingleton:
+# BasicConnectionSingleton:
 
 ![3 1](https://user-images.githubusercontent.com/128448216/236710805-a2b0648c-e894-4a5a-b1b4-f2ee3d995ee3.png)
 
-#ConnectionPool
+# ConnectionPool
 
 ![4](https://user-images.githubusercontent.com/128448216/236710849-e3bc0d7d-8bcc-46b0-b8a5-ccadf0561ee5.png)
 
