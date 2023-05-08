@@ -4,7 +4,7 @@
 Este proyecto consiste en mostrar los 4 tipos de conexiones a base de datos MYSQL desde Java los cuales son:
 # BasicConnection:
 
-![1](https://user-images.githubusercontent.com/128448216/236710633-24ce0ac1-78df-4b13-9e46-e28680391204.png)
+![1](https://user-images.githubusercontent.com/128448216/236710633-24ce0ac1-78df-4b13-9e46-e28680391204.png) widh:100px
 
 # BasicConnectionWithResources:
 
@@ -17,6 +17,10 @@ Este proyecto consiste en mostrar los 4 tipos de conexiones a base de datos MYSQ
 # ConnectionPool
 
 ![4](https://user-images.githubusercontent.com/128448216/236710849-e3bc0d7d-8bcc-46b0-b8a5-ccadf0561ee5.png)
+
+Ademas tambien consiste en realizar un Encrypt y Decrypt en MYSQL:
+
+
 
 
 # Requisitos
